@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+.logo img {
+    max-height: 35px;
+}
+
+.newPost{
+    margin-left: auto;
+    padding-right: 10px;
+}
+
+.dropdown img {
+    height: 20px;
+}
+
+.dropdown .logout {
+    color: red;
+}
