@@ -28,3 +28,11 @@
     height: 25px;
     width: 25px;
 }
+
+.card-title {
+    display: inline-flex;
+}
+
+.post-date {
+    margin-left: auto;
+}
