@@ -24,9 +24,9 @@
     color: red;
 }
 
-.row-2 button img{
-    height: 25px;
-    width: 25px;
+.row-2 .grid-pics img{
+    object-fit: cover;
+    aspect-ratio: 1;
 }
 
 .card-title {
@@ -35,4 +35,19 @@
 
 .post-date {
     margin-left: auto;
+}
+
+.row-2 ul img {
+    height: 25px;
+    width: 25px;
+}
+
+.card img {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    margin-bottom: 10px;
 }
